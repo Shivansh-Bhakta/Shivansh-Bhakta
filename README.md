@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-  <a href="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=800&color=0EA5E9&center=true&vCenter=true&multiline=false&width=680&lines=IIT+Patna+%7C+ECE+%7C+CGPA+9.43;Machine+Learning+%26+NLP+Pipelines;LLM+Systems+%26+Prompt+Engineering;Quantitative+Finance+%26+Algo+Trading;Open+to+ML+%2F+Research+Internships">
-  
+  <a href="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=800&color=0EA5E9&center=true&vCenter=true&multiline=false&width=680&lines=IIT+Patna+%7C+ECE+%7C+CGPA+9.62;Machine+Learning+%26+NLP+Pipelines;LLM+Systems+%26+Prompt+Engineering;Quantitative+Finance+%26+Algo+Trading;Open+to+ML+%2F+Research+Internships">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=800&color=0EA5E9&center=true&vCenter=true&multiline=false&width=680&lines=IIT+Patna+%7C+ECE+%7C+CGPA+9.62;Machine+Learning+%26+NLP+Pipelines;LLM+Systems+%26+Prompt+Engineering;Quantitative+Finance+%26+Algo+Trading;Open+to+ML+%2F+Research+Internships" alt="Typing SVG" />
   </a>
 </p>
 
@@ -15,7 +15,7 @@
   &nbsp;
   <img src="https://img.shields.io/badge/Status-Open%20to%20Internships-22C55E?style=for-the-badge&logo=checkmarx&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/IIT%20Patna-CGPA%20%2F10-0EA5E9?style=for-the-badge&logo=academia&logoColor=white" />
+  <img src="https://img.shields.io/badge/IIT%20Patna-CGPA%209.62%2F10-0EA5E9?style=for-the-badge&logo=academia&logoColor=white" />
 </p>
 
 ---
@@ -27,7 +27,7 @@ profile = {
     "name"        : "Shivansh Kumar Bhakta",
     "role"        : "ML Engineer · NLP Researcher · Quant Enthusiast",
     "university"  : "IIT Patna — B.Tech ECE (2025–2029)",
-    "cgpa"        : "9.43 / 10",
+    "cgpa"        : "9.62 / 10",
     "jee"         : "Advanced Rank 6114 | Main 99.52%ile",
     "focus"       : ["Machine Learning", "NLP", "LLM Systems", "Quant Finance"],
     "stack"       : ["Python", "PyTorch", "TensorFlow", "scikit-learn", "SQL"],
