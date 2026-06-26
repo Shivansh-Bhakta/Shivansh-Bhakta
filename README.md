@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=800&color=0EA5E9&center=true&vCenter=true&multiline=false&width=680&lines=IIT+Patna+%7C+ECE+%7C+CGPA+9.43;Machine+Learning+%26+NLP+Pipelines;LLM+Systems+%26+Prompt+Engineering;Quantitative+Finance+%26+Algo+Trading;Open+to+ML+%2F+Research+Internships">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=800&color=0EA5E9&center=true&vCenter=true&multiline=false&width=680&lines=IIT+Patna+%7C+ECE+%7C+CGPA+9.43;Machine+Learning+%26+NLP+Pipelines;LLM+Systems+%26+Prompt+Engineering;Quantitative+Finance+%26+Algo+Trading;Open+to+ML+%2F+Research+Internships" alt="Typing SVG" />
+  
   </a>
 </p>
 
