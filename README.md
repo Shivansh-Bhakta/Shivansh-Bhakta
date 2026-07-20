@@ -75,7 +75,7 @@ profile = {
         <img src="https://img.shields.io/badge/NLP-0EA5E9?style=flat-square" />
         <img src="https://img.shields.io/badge/TF--IDF-0EA5E9?style=flat-square" />
       </p>
-      <a href="https://github.com/Shivansh-Bhakta/fake-job-detection">→ View Repo</a>
+      <a href="[https://github.com/Shivansh-Bhakta/fake-job-detection](https://github.com/Shivansh-Bhakta/Fake_Job_Detection_-Basic-neural-network-)">→ View Repo</a>
     </td>
     <td width="50%">
       <h3>📈 Gold Price Prediction</h3>
