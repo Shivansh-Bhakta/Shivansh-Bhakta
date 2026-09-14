@@ -91,14 +91,14 @@ profile = {
   </tr>
   <tr>
     <td width="50%">
-      <h3>🤖 Customer Support Chatbot</h3>
+      <h3> Customer Support Chatbot</h3>
       <p>Intelligent support agent with intent classification and LLM-style prompt-based response generation. Designed conversational workflows that minimize response latency and improve resolution quality.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/NLP-0EA5E9?style=flat-square" />
         <img src="https://img.shields.io/badge/LLM%20Integration-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
       </p>
-      <a href="https://github.com/Shivansh-Bhakta/customer-support-chatbot">→ View Repo</a>
+     <!-- <a href="https://github.com/Shivansh-Bhakta/customer-support-chatbot">→ View Repo</a><-->
     </td>
     <td width="50%">
       <h3>🚦 Gridlock-Free Bengaluru</h3>
