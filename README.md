@@ -67,7 +67,7 @@ profile = {
 <table>
   <tr>
     <td width="50%">
-      <h3>🚨 Fake Job Detection System</h3>
+      <h3> Fake Job Detection System</h3>
       <p>NLP pipeline to classify fraudulent job postings using TF-IDF vectorization, handcrafted behavioral features (fee requests, urgency signals, grammar quality), and Logistic Regression — achieving ~84% accuracy.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -78,7 +78,7 @@ profile = {
       <a href="https://github.com/Shivansh-Bhakta/Fake_Job_Detection_-Basic-neural-network-">→ View Repo</a>
     </td>
     <td width="50%">
-      <h3>📈 Gold Price Prediction</h3>
+      <h3> Gold Price Prediction</h3>
       <p>Time-series forecasting with Ridge, Random Forest, and XGBoost over historical OHLCV + macroeconomic features. Walk-forward validation prevents data leakage; models benchmarked head-to-head on RMSE.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -86,7 +86,7 @@ profile = {
         <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
         <img src="https://img.shields.io/badge/Time%20Series-0EA5E9?style=flat-square" />
       </p>
-      <a href="https://github.com/Shivansh-Bhakta/gold-price-prediction">→ View Repo</a>
+     <!-- <a href="https://github.com/Shivansh-Bhakta/gold-price-prediction">→ View Repo</a>-->
     </td>
   </tr>
   <tr>
